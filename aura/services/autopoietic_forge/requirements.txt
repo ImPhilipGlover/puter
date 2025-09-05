@@ -1,0 +1,7 @@
+# Requirements for the fine-tuning service
+# unsloth[cu121-py311] @ git+https://github.com/unslothai/unsloth.git
+# torch
+# transformers
+# datasets
+# peft
+# accelerate

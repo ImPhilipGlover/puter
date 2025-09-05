@@ -1,0 +1,3 @@
+# /puter/aura/services/execution_sandbox/requirements.txt
+fastapi
+uvicorn[standard]

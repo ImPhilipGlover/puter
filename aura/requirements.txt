@@ -1,0 +1,25 @@
+#aura/requirements.txt
+# Core Application & API
+python-arango-async
+ollama
+fastapi
+uvicorn[standard]
+python-dotenv
+httpx
+rich
+
+pyzmq
+ormsgpack
+
+# Security & AST Analysis
+astor
+
+# Historical Chronicler (Future Use) [10]
+ZODB
+BTrees
+persistent
+
+# External Services (Optional)
+requests
+newsapi-python
+ip2location
