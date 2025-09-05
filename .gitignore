@@ -1,4 +1,4 @@
 # Ignore the Python virtual environment folders
 
 venv/
-aura\venv
+aura/venv
